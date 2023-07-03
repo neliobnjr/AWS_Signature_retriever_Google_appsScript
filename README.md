@@ -1,4 +1,7 @@
-# AWS_Signature_retriever_Google_appsScript
+
+
+# Google Sheets AppScript AWS API Signature Retriever.
+
 With this code you can retrieve your AWS signature. You just need your access and secret keys.
 
 You need to install the cCryptoGS library to your project.
